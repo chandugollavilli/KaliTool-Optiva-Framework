@@ -1,11 +1,5 @@
 #  ***Optiva-Framework*** 🕵️ ***Web Application Scanner*** 💉
-[![Version](https://img.shields.io/badge/Optiva-Frameworkv1.0.4-brightgreen.svg?maxAge=259200)]()
-[![Python 2.x](https://img.shields.io/badge/python-2.x-blue.svg)]()
-[![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Arch,Parrot-blue,Windows,Android.svg)]()
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# ***Author*** : Joker-Security [ dev-labs ] 
- ![](https://i.imgur.com/VESr2Et.jpg)
+
  
 # ✔️ ***Description***: 
 
