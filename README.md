@@ -86,19 +86,5 @@ $ python2 optiva.py
 <img src="https://i.imgur.com/PwmPoNh.png" width="40%"></img><img src="https://i.imgur.com/aCz0OPg.png" width="40%"></img>
 <img src="https://i.imgur.com/TP4awyu.png" width="40%"></img><img src="https://i.imgur.com/A8dQGdj.png" width="40%"></img>
 
-## ✔️ ***Full video tutorial***:
-[![ Optiva-Framework - Web Application Scanner ](https://i.ytimg.com/vi/eF11o6yLlv8/hqdefault.jpg)](https://www.youtube.com/watch?v=eF11o6yLlv8&t=31s)
-## ✔️ ***video Termux tutorial***:
-[![ Optiva-Framework - Web Application Scanner ](https://i.ytimg.com/vi/RXQPgrIlRe4/hqdefault.jpg)](https://www.youtube.com/watch?v=RXQPgrIlRe4)
-## ✔️ ***About*** :
-
-$ Twitter : https://twitter.com/SecurityJoker
-
-$ YOUTUBE : https://www.youtube.com/c/Professionalhacker25
-
-$ FACEBOOK: https://facebook.com/kali.linux.pentesting.tutorials
-
-$ Tested On : Windows / Kali Linux /  Parrot Os / Ubuntu / Archman / ArcoLinux / Termux(Android)
-
 
 
