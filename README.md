@@ -68,7 +68,7 @@ $ python optiva.py
 
 $ apt install git
 
-$ git clone https://github.com/joker25000/Optiva-Framework
+$ git clone https://github.com/chandugollavilli/KaliTool-Optiva-Framework.git
 
 $ cd Optiva-Framework 
 
